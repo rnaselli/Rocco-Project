@@ -1,0 +1,7 @@
+a.mystyle:hover {font-size:100%;}
+a.class:link {
+	background: green;
+	color:hotpink;
+	text-align: left;
+}
+a.class:visited {color:black;}
