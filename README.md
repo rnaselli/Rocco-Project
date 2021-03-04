@@ -64,6 +64,7 @@ include copyright, year, and your name, and any other info you want here (e.g., 
 
 There are working links back to all other pages on the site (they do not have to follow the same style as the other pages). 
 There must be at least two custom styles, beyond the styles applied globally to the divs. You might use a custom style for captions and for footer content.
+
 Implement the following on the Tableau < div >: 
 Create and export four Tableau charts as live graphs that answer the following questions:
 How are profits faring in each of the 50 states?
@@ -71,6 +72,8 @@ How has one of the highest-profit states fared for the last two years by profit,
 How are profits within that state doing for each product category?
 For the most profitable category, forecast sales (pick a state that has enough data for a forecast) through November 2015
 Write a caption (in HTML) for each chart that very briefly explains the chart (e.g. profits are strongest in Utah), and place it below the chart.
++Rocco -> PLEASE READ THIS
+
 Errors: as we find errors (e.g., broken links, missing images), we will deduct points. We may also deduct points if you make it difficult to grade (e.g., didn't follow folder structure or naming conventions, or poor nesting). 
 We also reserve the right to deduct points for clear aesthetic errors. These include, but are not limited to:
 blue text on red background is atrocious
